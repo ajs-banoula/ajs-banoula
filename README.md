@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay Singh Banoula</h1>
-<h3 align="center">A Final Year Engineering Student looking for opportunities to kickstart my career as a Professional in Information Technology sector.</h3>
+<h3 align="center">An enthusiastic person on a journey to be a Software Tester.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajs-banoula&label=Profile%20views&color=0e75b6&style=flat" alt="ajs-banoula" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Database Technologies.**
+- 🌱 I’m currently working **as a QA Engineer.**
 
 - 📫 How to reach me **ajaybanoula35@gmail.com**
 
